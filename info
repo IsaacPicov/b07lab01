@@ -1,0 +1,7 @@
+This is the first lab for b07 in which we are learning to use git, and writing a 
+few functions in java. 
+The code includes a polynomial class with the following methods:
+1.)Add, takes on argument of type polynomial and returns the polynomial instance + polynomial arg
+2.)Evaluate, takes argument of type double representing x and evaluates as follows
+3.)hasRoot, takes on argument of type double and determines whether this calue is a root of the
+  polynomial or not. 
